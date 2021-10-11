@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var l=t("q1tI"),c=t.n(l),a=t("b6Qr");function r(){return c.a.createElement("div",null,c.a.createElement("div",null,c.a.createElement("h1",null,"Hello Gatsby v2!")),c.a.createElement("pre",null,c.a.createElement("code",null,JSON.stringify(Object(a.deviceDetect)(),null,2))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-329ba0c632b2cab2fdf7.js.map

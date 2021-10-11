@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "gatsby-v2-ie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2",
+    "react": "^16",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "^16"
+  }
+}
